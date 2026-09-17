@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+requests
+holidays
+joblib
+scikit-learn
+xgboost
+pvlib
+windpowerlib
+pulp
+openpyxl
+statsmodels
+xlrd

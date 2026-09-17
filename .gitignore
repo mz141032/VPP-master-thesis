@@ -1,0 +1,28 @@
+# Raw / licensed / large input data
+*.xlsx
+*.xls
+*.csv
+*.txt
+
+# Keep documentation files inside data/
+!data/README.md
+
+# Generated outputs
+Wyniki/
+results/
+outputs/
+*.html
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
